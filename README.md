@@ -7,7 +7,7 @@
 * ✉️  You can contact me at [dyakonovd99@gmail.com](mailto:dyakonovd99@gmail.com)
 * 🌍  I'm based in Russia
 
-  ## Connect with me
+## Connect with me
 <a href="https://t.me/zavtra_bydet_leg4e" target="_blank">
 <img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>
